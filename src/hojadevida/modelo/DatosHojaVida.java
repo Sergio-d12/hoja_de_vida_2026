@@ -14,11 +14,11 @@ public class DatosHojaVida {
     private String github = "sergiodavidmorenobenavdes6@gmail.com";
     private String[] habilidadesTecnicas = {"Se usar algo de linux, tengo proyectos basicos hechos anteriormente en java y python"};
     private String[] habilidadesBlandas = {"Puedo trabajar en equipo"};
-    private String idiomas = "Español - Nativo , ingles basico";
+    private String idiomas = "Español - Nativo";
     private String perfil = "Puedo trabajar en equipo.";
-    private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
+    private String experiencia = "2024-2025\n[Estudiante] - [Ninguna]\n[Popayan]";
     private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
+    private String[] areasInteres = {"Ingeniería de Software"};
     private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
     // =================================================
 
