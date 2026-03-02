@@ -7,17 +7,15 @@ public class DatosHojaVida {
 
     // ========== PERSONALIZA TUS DATOS AQUÍ ==========
     private String nombre = "Sergio David Moreno Benavides";
-    private String titulo = "Estudiante de TDS";
+    private String titulo = "Estudiante de Tecnologia en Desarollo de Software";
     private String ciudad = "Popayan, Colombia";
     private String telefono = "+57 3142353168";
     private String email = "sergiodavidmorenobenavdes6@gmail.com";
     private String github = "sergiodavidmorenobenavdes6@gmail.com";
     private String[] habilidadesTecnicas = {"Se usar algo de linux, tengo proyectos basicos hechos anteriormente en java y python"};
     private String[] habilidadesBlandas = {"Puedo trabajar en equipo"};
-    private String idiomas = "Español - Nativo";
-    private String perfil = "Apoya funciones de administración de redes de datos.\r\n" + //
-                            "Tiene la capacidad crítica y creativa, para liderar procesos de sistematización en diferentes sectores públicos y privados.\r\n" + //
-                            "Posee la actitud y capacidad para el trabajo en equipo que le permite relacionarse de manera efectiva con su entorno laboral.";
+    private String idiomas = "Español - Nativo , ingles basico";
+    private String perfil = "Puedo trabajar en equipo.";
     private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
     private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
